@@ -25,3 +25,4 @@ Implement semantic HTML for better accessibility and SEO.
 - Ensure semantic correctness.
 
 Happy Coding! 💻✨
+![image](https://github.com/user-attachments/assets/efbadbab-6d86-4f86-9449-ccb3b264f321)
